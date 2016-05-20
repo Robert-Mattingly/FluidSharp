@@ -3,3 +3,7 @@
 ################################################################################
 
 /FluidSharp/FluidSharp.System.Data/bin/Debug
+/FluidSharp/FluidSharp.System.DataTests/bin/Debug
+/FluidSharp/FluidSharp.System.DataTests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/FluidSharp/FluidSharp.System.DataTests/obj/Debug
+/FluidSharp/FluidSharp.System.Data/obj/Debug
