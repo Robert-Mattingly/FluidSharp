@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace FluidSharp.System.Data.SqlClient
 {
+    /// <summary>
+    /// A collection of methods to ease interactions with DataTable objects.
+    /// </summary>
     public static class DataTableExtensions
     {
         /// <summary>
